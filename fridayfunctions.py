@@ -58,7 +58,7 @@ def wikipediasearch(query):
 
 
 def open_programs_websites(query):
-    chrome_path = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe %s"
+    #chrome_path = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe %s"
     query = query.replace("open ", "")
 
     if "youtube" in query:
