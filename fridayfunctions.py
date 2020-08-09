@@ -73,7 +73,7 @@ def open_programs_websites(query):
 
     elif "code" in query:
         SRF.speak("opening visual studio code")
-        codepath = "C:\Users\Sumesh Pandit\Desktop\CPP Code\main.cpp"
+        codepath = "C:\\Users\\Sumesh Pandit\\Desktop\\CPP Code\\main.cpp"
         os.startfile(codepath)
 
 
