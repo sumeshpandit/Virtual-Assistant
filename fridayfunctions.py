@@ -7,7 +7,7 @@ import time
 import subprocess
 import speakandrecognizefunctions as SRF
 
-USER = "shikhar"
+USER = "sumesh"
 
 
 def wishme():
@@ -73,7 +73,7 @@ def open_programs_websites(query):
 
     elif "code" in query:
         SRF.speak("opening visual studio code")
-        codepath = "C:\\Users\\shikh\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+        codepath = "C:\Users\Sumesh Pandit\Desktop\CPP Code\main.cpp"
         os.startfile(codepath)
 
 
