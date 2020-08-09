@@ -5,7 +5,7 @@ import datetime
 
 
 WAKE_WORD = "friday"
-USER = "shikhar"
+USER = "sumesh"
 
 
 def success():
