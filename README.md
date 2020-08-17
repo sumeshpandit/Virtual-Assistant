@@ -1,4 +1,4 @@
-# project-FRIDAY
+# Virtual Assistant
 Voice assistant 'FRIDAY' developed using python inspired by Iron man's AI of the same name. 
 FRIDAY detects **user's voice**, converts it into string and detects the command and execute it.
 
